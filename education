@@ -1,0 +1,38 @@
+Hi there, person who is interested in my technical background!  I graduated from Bellevue College with a Bachelor's of Applied Science in Data Analytics in June 2021 with 3.82 GPA.  Hopefully that shows you that I do great work, but in case you want more details, here's a rundown of the classes I've completed and the concepts I've learned:
+
+Statistical analysis 
+	I learned the basics of statistics and probabilities with hypothesis testing for means and proportions.    
+Technical writing
+	I learned best practices for technical writing using the IMRAD model (Intro, Methods, Results, Analysis, Discussion) while completing a technical paper researched in a small group.  My group covered Carbon Emissions data for commuters at Bellevue College and was able to present our paper and recommendations to Bellevue College's Office of Sustainability.  
+SQL fundamentals
+	I learned relational database schemas, SQL syntax, and joins.  
+Intro to analytics
+	This course used Excel to show us how to take a dataset through the steps of analysis.  For the final, I presented findings about Bellevue housing data, which included descriptive statistics, histograms to examine skewness, confidence intervals, IQR method and outliers,   stepwise modeling with linear regression, and checking assumptions for data normality.  
+Business Intelligence Applications
+	I learned to use SSIS and SSAS to build an OLAP cube and ETL pipeline.  
+Applied Stat methods I and II
+	I learned concepts like ANOVA, ANCOVA, Chi-squared tests, and experimental setup for fixed, random, and mixed effects as well as interactions.  
+Data visual tools and tech
+	This course used Storytelling with Data by Cole Knaflic to build good practices in data visualization and dashboards.  Tableau was the primary software with some exposure to PowerBI.  
+Advanced Communication in Business and Tech
+	I practiced public speaking, as well as covered group dynamics and conflict resolution.  
+Data Analysis Software Programming
+	I used a bit of Python and mostly R for various projects that built on each other.  The first project focused on gathering, cleaning, and merging data; the second focused on data visualization; and the third used regression models and a final report on a superhero movie dataset.  
+Ethics Issues in IT
+	This course used a philosophy framework to drive weekly discussion boards about articles that affect the tech industry, such as privacy and intellectual property.  
+Data Acquisition and Management
+	This course covered data structures and the implications of cloud computing.  I used BASH and RegEx to write an API connector script. We used Python to build a sentiment analysis which ran on a document-based database on MongoDB.  
+Multivariate Analysis
+	I learned MANOVA, principal component analysis, linear discriminant analysis, and K-nearest neighbor methods by going into detail with the math and coding them in R.  
+Marketing Analytics
+	I learned how to use marketing data to analyze campaigns, create metrics, and build dashboards in Tableau.
+Econometrics
+	I refined my analysis skills by applying them to economic data.  I read and summarized several technical papers related to econometrics and completed coding projects in R that helped me practice my skills. I wrote a final paper examining the effects of energy production and consumption on price across residential and commercial sectors.  
+Marketing Measurement and Analytics
+	I learned how to implement for marketers and completed courses in Advanced Google Analytics in the Google Analytics Academy.  
+Predictive Analytics
+	I learned about and ran R code for many different applications of data analysis: market basket analysis, time series, brand preference and conjoint analysis, text and sentiment analysis, sports analysis, operations management and fraud detection.  
+Data analytics capstone
+	I remotely completed a group project acting as project manager for 3 other students.  We studied energy demand for the state of California using data from the Energy Information Administration and used Python and the Facebook Prophet model to forecast demand.  
+
+
